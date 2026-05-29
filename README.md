@@ -13,6 +13,7 @@ In this game, you play as the **Circle (O)** and take the **first move**. The AI
 - You make the **first move** by clicking on a grid cell.
 - Players alternate turns.
 - The game ends when a player wins or all cells are filled (tie).
+- To Restart the game press 'R' on keyboard
 
 ---
 
